@@ -1,2 +1,2 @@
 # Solids-of-Revolution
-A program to numerically calculate the volume of solids of revolution
+I originally created this program in my fall semester of my senior year of high school. Using Pappus' Theorem, a method that finds the volume of a solid of revolution by using the solid's center of mass, I devised algorithms for numerical integration and was able to find the volume of given solids. I originally wrote my formulas in Python, but to make the project publishable, I ported the program to JavaScript and used HTML and CSS to make my work presentable. I never got the opportunity to work on parsing for function inputs (ie, exponents must be written as Math.pow() etc.), but the program nonetheless works. It can be found at mgiglio10.github.io.
